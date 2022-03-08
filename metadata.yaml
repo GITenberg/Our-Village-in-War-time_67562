@@ -1,0 +1,25 @@
+_repo: Our-Village-in-War-time_67562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Martyn, Sarah Towne
+    gutenberg_agent_id: '54330'
+    url: http://www.gutenberg.org/2009/agents/54330
+description: ''
+gutenberg_issued: '2022-03-05'
+identifiers:
+  gutenberg: '67562'
+language: en
+pgterms:marc905: 20220212163018martyn
+pgterms:marc906: '1864'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The American Tract Society,1864.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Our Village in War-time
+url: http://www.gutenberg.org/ebooks/67562
