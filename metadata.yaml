@@ -1,11 +1,16 @@
 _repo: Our-Village-in-War-time_67562
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67562-h/images/cover.jpg
 creator:
   author:
     agent_name: Martyn, Sarah Towne
     gutenberg_agent_id: '54330'
     url: http://www.gutenberg.org/2009/agents/54330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67562#Our-Village-in-War-time
 gutenberg_issued: '2022-03-05'
 identifiers:
   gutenberg: '67562'
